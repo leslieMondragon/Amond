@@ -1,0 +1,22 @@
+.home__img__mobile{
+    display: none;
+}
+
+.home__img{
+    display: block;
+    width: 100%;
+    padding-top: 34.31px;
+    height: 100vh;
+}
+
+@media (max-width: 780px){
+    .home__img{
+        display: none;
+    }
+
+    .home__img__mobile{
+        display: block;
+        width: 100%;
+        height: 88vh;
+    }
+}

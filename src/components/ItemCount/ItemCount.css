@@ -1,0 +1,25 @@
+.main_item_count{
+    text-align: center;
+    padding: 20px;
+}
+
+.item_count{
+    display: flex;
+    justify-content: center;
+    padding: 9px;
+    font-size: 20px;
+}
+
+.item_count button{
+    background-color: rgb(10, 16, 33);
+    border-radius: 100%;
+    border: none;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    margin: 0px 10px;
+}
